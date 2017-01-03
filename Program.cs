@@ -10,8 +10,8 @@ namespace JustSomeApp
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Magenta;
-            Console.WriteLine("Another try with git!");
+            var cir = new Circle();
+            cir.Draw();
 
             Console.ReadLine();
         }
