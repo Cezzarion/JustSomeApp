@@ -13,6 +13,8 @@ namespace JustSomeApp
             Console.BackgroundColor = ConsoleColor.Yellow;
             Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("Let's say this is circle");
+
+            Console.WriteLine("Just added some code");
         }
     }
 }
