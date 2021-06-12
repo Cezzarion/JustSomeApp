@@ -13,7 +13,6 @@ namespace JustSomeApp
             var cir = new Circle();
             cir.Draw();
             cir.Draw();
-            cir.Draw();
 
             Console.ReadLine();
             Console.ReadLine();
