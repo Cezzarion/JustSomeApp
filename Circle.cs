@@ -16,6 +16,7 @@ namespace JustSomeApp
 
             Console.WriteLine("Just added some code");
             Console.WriteLine("Now this should work");
+            Console.WriteLine("Another line of code");
         }
     }
 }
