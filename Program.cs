@@ -16,6 +16,7 @@ namespace JustSomeApp
             cir.Draw();
 
             Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
